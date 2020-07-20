@@ -7,7 +7,7 @@ class Header extends Component {
         return (
             <Jumbotron fluid className='jumbo'>
                 <Container>
-                    <h2>Welcome to my page</h2>
+                    <h2>Welcome to my page!</h2>
 
                 </Container>
             </Jumbotron>

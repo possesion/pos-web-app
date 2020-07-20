@@ -41,8 +41,3 @@ export default class Footer extends React.Component {
     };
 }
 
-{/* <Nav defaultActiveKey="/home" className="flex-column" style={{margin: 'auto'}}>
-<Nav.Link href="/">Главная</Nav.Link>
-<Nav.Link eventKey="link-1">БИО</Nav.Link>
-<Nav.Link eventKey="link-2">Контакты</Nav.Link>
-</Nav> */}
