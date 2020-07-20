@@ -1,21 +1,31 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import './App.css';
 import Navigation from './components/Navigation.js';
 import Header from './components/Header.js';
-import Main from './components/Main.js';
+
 import Footer from './components/Footer.js';
+import Contacts from './pages/Contacts.js';
+import Bio from './pages/Bio.js';
+import MainPage from './pages/MainPage.js';
+import { skills } from './components/Main';
 
 function App() {
   return (
-    <div>
+    <>
       <Navigation />
-      {/* <Header /> */}
-      <Main data={skills}/>
-      {/* <Footer /> */}
-    </div>
+      <Header />
+      <Router>
+        <Switch>
+          <Route exact path='/' component={MainPage} />
+          <Route path='/bio' component={Bio} />
+          <Route path='/contacts' component={Contacts} />
+        </Switch>
+      </Router>
+      <Footer />
+    </>
   );
 }
 
-const skills = ['HTML', 'CSS', 'JS', 'React Native', 'React Native', 'Git', 'Linux', 'Bash', 'CD/CI', 'модульное тестирование', 'Jest', 'Bootstrap', 'npm' ];
 export default App;

@@ -30,7 +30,7 @@ class Main extends Component {
               </Card.Body>
             </Card>
           </Col>
-          <Col xs={6}>
+          <Col lg={6} xs={12}>
             <Card>
               <Card.Img variant="top" src="https://asciinema.org/a/G1z1wfYaV4qpjtHwB9KLhsudY.svg" />
               <Card.Body>
@@ -92,4 +92,6 @@ class Main extends Component {
 }
 
 
+const skills = ['HTML', 'CSS', 'JS', 'React Native', 'React Native', 'Git', 'Linux', 'Bash', 'CD/CI', 'модульное тестирование', 'Jest', 'Bootstrap', 'npm' ];
+export { skills };
 export default Main;

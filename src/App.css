@@ -28,6 +28,18 @@
   color: #61dafb;
 }
 
+.jumbo {
+  background-image: url('./assets/bg.jpg');
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+  height: 200px;
+  position: relative;
+
+  opacity: .9;
+
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
