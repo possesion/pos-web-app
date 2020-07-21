@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import profile from '../assets/profile2.jpg';
 import portfolio from '../assets/game.png';
 import tourism from '../assets/portfolioS.jpg';
+import ContactList from './ContactList.js';
 import _ from 'lodash';
 import { Card, Container, Badge, Button, Col, Row, ListGroup } from 'react-bootstrap';
 
@@ -26,7 +27,7 @@ class Main extends Component {
                 <Card.Text>
                   Junior frontend разработчик. Увлекаюсь: <br />• Каллиграфией <br /> • Астрономией <br /> • Грокаю алгоритмы <hr />Реализовал несколько учебных проектов. Эксперементирую над интересными задачами в Codepen.
                 </Card.Text>
-                <Button variant="primary" size='sm'>Контакты</Button>
+                <ContactList />
               </Card.Body>
             </Card>
           </Col>

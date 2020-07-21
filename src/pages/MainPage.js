@@ -6,11 +6,11 @@ import { skills } from '../components/Main.js';
 class MainPage extends Component {
     render() {
         return (
-            <>
-              <Main data={skills} />;
-            </>
+            <React.Fragment>
+                <Main data={skills} />
+            </React.Fragment>
         );
     }
 }
 
-export default  MainPage;
+export default MainPage;

@@ -2,12 +2,13 @@ import React, { Component } from 'react';
 import logo from '../assets/logo2.svg';
 import { Nav, Navbar, Container, Form, FormControl, Button } from 'react-bootstrap';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import Contacts from '../pages/Contacts.js';
-import Home from './Main.js';
+import ContactList from './ContactList.js';
+import MainPage from '../pages/MainPage.js';
+import Header from '../components/Header.js';
+import Home, { skills } from './Main.js';
 import Bio from '../pages/Bio.js';
-import { skills } from './Main';
 
-
+const paragraph = 'Ищу работу во front end разработке. До этого работал в продажах, но в определенный момент';
 class Navigation extends Component {
     render() {
         return (
@@ -23,20 +24,27 @@ class Navigation extends Component {
                                 alt='Search'
                             />
                         </Navbar.Brand>
-                        <Navbar.Toggle aria-controls='responsive-navbar-nav'/>
+                        <Navbar.Toggle aria-controls='responsive-navbar-nav' />
                         <Navbar.Collapse id='responsive-navbar-nav'>
                             <Nav className='ml-auto'>
                                 <Nav.Link href='/'>Главная</Nav.Link>
                                 <Nav.Link href='/bio'>БИО</Nav.Link>
-                                <Nav.Link href='/contacts'>Контакты</Nav.Link>
+                                
                             </Nav>
                         </Navbar.Collapse>
                     </Container>
                 </Navbar>
+                <Header />
+                <Router>
+                    <Switch>
+                        <Route exact path='/' component={MainPage} />
+                        <Route path='/bio' component={Bio} />
+                        <Route path='/contacts' component={ContactList} />
+                    </Switch>
+                </Router>                
             </>
         );
     }
 }
-
 
 export default Navigation;
