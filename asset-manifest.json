@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/pos-web-app/static/css/main.c670c484.chunk.css",
-    "main.js": "/pos-web-app/static/js/main.3e048da9.chunk.js",
-    "main.js.map": "/pos-web-app/static/js/main.3e048da9.chunk.js.map",
-    "runtime-main.js": "/pos-web-app/static/js/runtime-main.efca6490.js",
-    "runtime-main.js.map": "/pos-web-app/static/js/runtime-main.efca6490.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/pos-web-app/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.4a0f0a59.chunk.js": "/pos-web-app/static/js/2.4a0f0a59.chunk.js",
-    "static/js/2.4a0f0a59.chunk.js.map": "/pos-web-app/static/js/2.4a0f0a59.chunk.js.map",
-    "index.html": "/pos-web-app/index.html",
-    "precache-manifest.abf0836847d3be1f81613f08d7298b37.js": "/pos-web-app/precache-manifest.abf0836847d3be1f81613f08d7298b37.js",
-    "service-worker.js": "/pos-web-app/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/pos-web-app/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.c670c484.chunk.css.map": "/pos-web-app/static/css/main.c670c484.chunk.css.map",
-    "static/js/2.4a0f0a59.chunk.js.LICENSE.txt": "/pos-web-app/static/js/2.4a0f0a59.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/pos-web-app/static/media/bg.25885655.jpg",
-    "static/media/game.png": "/pos-web-app/static/media/game.8ceae62e.png",
-    "static/media/logo2.svg": "/pos-web-app/static/media/logo2.5b7cb12a.svg",
-    "static/media/portfolioS.jpg": "/pos-web-app/static/media/portfolioS.9f93805a.jpg",
-    "static/media/profile2.jpg": "/pos-web-app/static/media/profile2.cb95ba0e.jpg"
+    "main.css": "/static/css/main.579276d3.chunk.css",
+    "main.js": "/static/js/main.dd49177d.chunk.js",
+    "main.js.map": "/static/js/main.dd49177d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6064929a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6064929a.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.4a0f0a59.chunk.js": "/static/js/2.4a0f0a59.chunk.js",
+    "static/js/2.4a0f0a59.chunk.js.map": "/static/js/2.4a0f0a59.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.460f88d68a768a7d0682f8e7dbf9e476.js": "/precache-manifest.460f88d68a768a7d0682f8e7dbf9e476.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.579276d3.chunk.css.map": "/static/css/main.579276d3.chunk.css.map",
+    "static/js/2.4a0f0a59.chunk.js.LICENSE.txt": "/static/js/2.4a0f0a59.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/bg.25885655.jpg",
+    "static/media/game.png": "/static/media/game.8ceae62e.png",
+    "static/media/logo2.svg": "/static/media/logo2.5b7cb12a.svg",
+    "static/media/portfolioS.jpg": "/static/media/portfolioS.9f93805a.jpg",
+    "static/media/profile2.jpg": "/static/media/profile2.cb95ba0e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.efca6490.js",
+    "static/js/runtime-main.6064929a.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.4a0f0a59.chunk.js",
-    "static/css/main.c670c484.chunk.css",
-    "static/js/main.3e048da9.chunk.js"
+    "static/css/main.579276d3.chunk.css",
+    "static/js/main.dd49177d.chunk.js"
   ]
 }
