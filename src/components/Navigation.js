@@ -28,14 +28,13 @@ class Navigation extends Component {
                         <Navbar.Collapse id='responsive-navbar-nav'>
                             <Nav className='ml-auto'>
                                 <Nav.Link href='/'>Главная</Nav.Link>
-                                <Nav.Link href='/bio'>БИО</Nav.Link>
-                                
+                                <Nav.Link href='/bio'>БИО</Nav.Link>                                
                             </Nav>
                         </Navbar.Collapse>
                     </Container>
                 </Navbar>
                 <Header />
-                <Router>
+                <Router basename="/">
                     <Switch>
                         <Route exact path='/' component={MainPage} />
                         <Route path='/bio' component={Bio} />
