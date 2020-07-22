@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pos-web-app/static/css/main.c670c484.chunk.css",
-    "main.js": "/pos-web-app/static/js/main.446f3849.chunk.js",
-    "main.js.map": "/pos-web-app/static/js/main.446f3849.chunk.js.map",
+    "main.js": "/pos-web-app/static/js/main.0fa69cba.chunk.js",
+    "main.js.map": "/pos-web-app/static/js/main.0fa69cba.chunk.js.map",
     "runtime-main.js": "/pos-web-app/static/js/runtime-main.efca6490.js",
     "runtime-main.js.map": "/pos-web-app/static/js/runtime-main.efca6490.js.map",
     "static/css/2.af3c1da9.chunk.css": "/pos-web-app/static/css/2.af3c1da9.chunk.css",
     "static/js/2.665b4d95.chunk.js": "/pos-web-app/static/js/2.665b4d95.chunk.js",
     "static/js/2.665b4d95.chunk.js.map": "/pos-web-app/static/js/2.665b4d95.chunk.js.map",
     "index.html": "/pos-web-app/index.html",
-    "precache-manifest.65d269a90bbd8f77dfeabdd0c6b72a34.js": "/pos-web-app/precache-manifest.65d269a90bbd8f77dfeabdd0c6b72a34.js",
+    "precache-manifest.fc7aff75c6999aa83abe0cd004e79632.js": "/pos-web-app/precache-manifest.fc7aff75c6999aa83abe0cd004e79632.js",
     "service-worker.js": "/pos-web-app/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/pos-web-app/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.c670c484.chunk.css.map": "/pos-web-app/static/css/main.c670c484.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.665b4d95.chunk.js",
     "static/css/main.c670c484.chunk.css",
-    "static/js/main.446f3849.chunk.js"
+    "static/js/main.0fa69cba.chunk.js"
   ]
 }
