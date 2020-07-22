@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from '../assets/logo2.svg';
 import { Nav, Navbar, Container, Form, FormControl, Button } from 'react-bootstrap';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 import ContactList from './ContactList.js';
 import MainPage from '../pages/MainPage.js';
 import Header from '../components/Header.js';
@@ -28,19 +28,12 @@ class Navigation extends Component {
                         <Navbar.Collapse id='responsive-navbar-nav'>
                             <Nav className='ml-auto'>
                                 <Nav.Link href='/'>Главная</Nav.Link>
-                                <Nav.Link href='/bio'>БИО</Nav.Link>                                
+                                <Nav.Link href='#/bio'>БИО</Nav.Link>                                
                             </Nav>
                         </Navbar.Collapse>
                     </Container>
                 </Navbar>
-                <Header />
-                <Router basename="/">
-                    <Switch>
-                        <Route exact path='/' component={MainPage} />
-                        <Route path='/bio' component={Bio} />
-                        <Route path='/contacts' component={ContactList} />
-                    </Switch>
-                </Router>                
+                <Header />              
             </>
         );
     }

@@ -28,6 +28,7 @@ class Main extends Component {
                   Junior frontend разработчик. Увлекаюсь: <br />• Каллиграфией <br /> • Астрономией <br /> • Грокаю алгоритмы <hr />Реализовал несколько учебных проектов. Эксперементирую над интересными задачами в Codepen.
                 </Card.Text>
                 <ContactList />
+                <Button variant="primary" size='sm' href='https://drive.google.com/file/d/1ikkIR3v_RrHTWTvFt1Yi3VoreyWJpcc0/view?usp=sharing'>скачать резюме</Button>
               </Card.Body>
             </Card>
           </Col>
@@ -59,7 +60,7 @@ class Main extends Component {
                 <Card.Text>
                   Передвиньте блоки так, чтобы сформировался натуральный ряд чисел от 1 до 20.
                 </Card.Text>
-                <Button variant="primary" size='sm' action href='https://codepen.io/possesion/pen/eYpzeWW'>Узнать больше</Button>
+                <Button variant="primary" size='sm' action href='https://codepen.io/possesion/pen/eYpzeWW'>Играть</Button>
               </Card.Body>
             </Card>
           </Col>
@@ -69,19 +70,19 @@ class Main extends Component {
             <div style={{marginTop: '20px'}}>
               <ListGroup defaultActiveKey="#link1">
                 <ListGroup.Item action href="#link2" disabled>
-                  Примеры кода
+                  <strong>Примеры кода</strong>
                 </ListGroup.Item>
-                <ListGroup.Item action href="#link1">
-                  Case 1
+                <ListGroup.Item action href="https://codepen.io/possesion/pen/PoZQqyr">
+                  Бинарная сортировка
                 </ListGroup.Item>
-                <ListGroup.Item action onClick=''>
-                  case 2
+                <ListGroup.Item action href='https://codepen.io/possesion/pen/QWyaWGq'>
+                  Пример формы на React
                 </ListGroup.Item>
-                <ListGroup.Item action onClick=''>
-                  case 3
+                <ListGroup.Item action href='https://codepen.io/possesion/pen/abvxLBQ?editors=1112'>
+                  Проверка на коллизию
                 </ListGroup.Item>
-                <ListGroup.Item action onClick=''>
-                  case 4
+                <ListGroup.Item action href='https://codepen.io/possesion/pen/KKdxxrL?editors=1112'>
+                  Фильтр почтовых адресов
                 </ListGroup.Item>
               </ListGroup>
             </div>

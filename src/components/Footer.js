@@ -26,7 +26,7 @@ export default class Footer extends Component {
                     <Nav.Link href="/">Главная</Nav.Link>
                   </Nav.Item>
                   <Nav.Item>
-                    <Nav.Link eventKey="link-1" href="/bio">БИО</Nav.Link>
+                    <Nav.Link eventKey="link-1" href="#/bio">БИО</Nav.Link>
                   </Nav.Item>
                 </Nav>
               </Col>

@@ -7,7 +7,7 @@ class Bio extends Component {
     render() {
         const { text } = this.props;
         return (
-            <Container>
+            <Container style={{height: '100vh'}}>
                 <Card border="dark" >
                     <Card.Header>Обо мне</Card.Header>
                     <Card.Body>
