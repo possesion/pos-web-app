@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ddbc727298ddfb0b45d02b825f253678",
+    "revision": "85acdcad782c7d2c745a20d33fcecc19",
     "url": "/pos-web-app/index.html"
   },
   {
-    "revision": "a013bd4cedf046301484",
+    "revision": "f855ada4a93ed9454810",
     "url": "/pos-web-app/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "97b7291edbbc5eeba963",
+    "revision": "6873764d48054ac119f7",
     "url": "/pos-web-app/static/css/main.c670c484.chunk.css"
   },
   {
-    "revision": "a013bd4cedf046301484",
-    "url": "/pos-web-app/static/js/2.35a7728f.chunk.js"
+    "revision": "f855ada4a93ed9454810",
+    "url": "/pos-web-app/static/js/2.025f7197.chunk.js"
   },
   {
     "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/pos-web-app/static/js/2.35a7728f.chunk.js.LICENSE.txt"
+    "url": "/pos-web-app/static/js/2.025f7197.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "97b7291edbbc5eeba963",
-    "url": "/pos-web-app/static/js/main.99f6ac75.chunk.js"
+    "revision": "6873764d48054ac119f7",
+    "url": "/pos-web-app/static/js/main.2ec3dab2.chunk.js"
   },
   {
     "revision": "ed4fd4dddabd8b830868",
