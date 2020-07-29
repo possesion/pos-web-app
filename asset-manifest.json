@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/pos-web-app/static/css/main.c670c484.chunk.css",
-    "main.js": "/pos-web-app/static/js/main.9529c06b.chunk.js",
-    "main.js.map": "/pos-web-app/static/js/main.9529c06b.chunk.js.map",
+    "main.css": "/pos-web-app/static/css/main.de0d51a5.chunk.css",
+    "main.js": "/pos-web-app/static/js/main.883bed88.chunk.js",
+    "main.js.map": "/pos-web-app/static/js/main.883bed88.chunk.js.map",
     "runtime-main.js": "/pos-web-app/static/js/runtime-main.efca6490.js",
     "runtime-main.js.map": "/pos-web-app/static/js/runtime-main.efca6490.js.map",
     "static/css/2.af3c1da9.chunk.css": "/pos-web-app/static/css/2.af3c1da9.chunk.css",
     "static/js/2.ac0373dd.chunk.js": "/pos-web-app/static/js/2.ac0373dd.chunk.js",
     "static/js/2.ac0373dd.chunk.js.map": "/pos-web-app/static/js/2.ac0373dd.chunk.js.map",
     "index.html": "/pos-web-app/index.html",
-    "precache-manifest.c26770b4c6778444e4c0b0d92e353574.js": "/pos-web-app/precache-manifest.c26770b4c6778444e4c0b0d92e353574.js",
+    "precache-manifest.73d414745204bc2381e5aec8787cb8af.js": "/pos-web-app/precache-manifest.73d414745204bc2381e5aec8787cb8af.js",
     "service-worker.js": "/pos-web-app/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/pos-web-app/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.c670c484.chunk.css.map": "/pos-web-app/static/css/main.c670c484.chunk.css.map",
+    "static/css/main.de0d51a5.chunk.css.map": "/pos-web-app/static/css/main.de0d51a5.chunk.css.map",
     "static/js/2.ac0373dd.chunk.js.LICENSE.txt": "/pos-web-app/static/js/2.ac0373dd.chunk.js.LICENSE.txt",
     "static/media/App.css": "/pos-web-app/static/media/bg.25885655.jpg",
     "static/media/game.png": "/pos-web-app/static/media/game.8ceae62e.png",
     "static/media/logo2.svg": "/pos-web-app/static/media/logo2.5b7cb12a.svg",
-    "static/media/portfolioS.jpg": "/pos-web-app/static/media/portfolioS.9f93805a.jpg",
+    "static/media/portfolioS.jpg": "/pos-web-app/static/media/portfolioS.f20057cf.jpg",
     "static/media/profile2.jpg": "/pos-web-app/static/media/profile2.cb95ba0e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.efca6490.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.ac0373dd.chunk.js",
-    "static/css/main.c670c484.chunk.css",
-    "static/js/main.9529c06b.chunk.js"
+    "static/css/main.de0d51a5.chunk.css",
+    "static/js/main.883bed88.chunk.js"
   ]
 }

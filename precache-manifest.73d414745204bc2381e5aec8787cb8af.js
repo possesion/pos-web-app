@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7cb5633aa8d1158610fd90bc0470262b",
+    "revision": "a7ecad8da913fa058e3a8eef2c2f0c16",
     "url": "/pos-web-app/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pos-web-app/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "a663bae8254e5f4dba7b",
-    "url": "/pos-web-app/static/css/main.c670c484.chunk.css"
+    "revision": "f3be731bf4b952ac2be5",
+    "url": "/pos-web-app/static/css/main.de0d51a5.chunk.css"
   },
   {
     "revision": "234eb056f0e8e6429519",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pos-web-app/static/js/2.ac0373dd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a663bae8254e5f4dba7b",
-    "url": "/pos-web-app/static/js/main.9529c06b.chunk.js"
+    "revision": "f3be731bf4b952ac2be5",
+    "url": "/pos-web-app/static/js/main.883bed88.chunk.js"
   },
   {
     "revision": "ed4fd4dddabd8b830868",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pos-web-app/static/media/logo2.5b7cb12a.svg"
   },
   {
-    "revision": "9f93805a8d996aa5dde981bff825a386",
-    "url": "/pos-web-app/static/media/portfolioS.9f93805a.jpg"
+    "revision": "f20057cfb6695490d1e5c9abb1a46498",
+    "url": "/pos-web-app/static/media/portfolioS.f20057cf.jpg"
   },
   {
     "revision": "cb95ba0e8bf6e7b155088bf4070f63d3",
