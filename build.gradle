@@ -17,7 +17,7 @@ dependencies {
                       implementation 'org.apache.commons:commons-lang3:3.12.0'
 'org.junit.jupiter:junit-jupiter:5.10.0'
     testImplementation 'com.codeborne:selenide:6.17.0'
-sourceCompatibility = 101
+sourceComпatibility = 101
 "text"
 
 test {
